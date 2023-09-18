@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Shashank",
+        "DOB": "18-06-2000",
+        "Height": 175,
+        "City": "Hyderabad",
+        "State": "Telangana"
+    },
+    {
+        "Name": "Rohit",
+        "DOB": "10-08-1999",
+        "Height": 163,
+        "City": "Chennai",
+        "State": "TamilNadu"
+    },
+    {
+        "Name": "Vamshi",
+        "DOB": "04-10-1999",
+        "Height": 180,
+        "City": "kolkatta",
+        "State": "West Bengal"
+    },
+    {
+        "Name": "Naveen",
+        "DOB": "19-04-2000",
+        "Height": 168,
+        "City": "Hyderabad",
+        "State": "Telangana"
+    },
+    {
+        "Name": "Nikhil",
+        "DOB": "11-09-2000",
+        "Height": 172,
+        "City": "Mumbai",
+        "State": "Maharastra"
+    }
+]
