@@ -1,0 +1,36 @@
+Here are 20 interview questions covering Data Types, Operators, Conditional Statements, Looping Statements, and Functions:
+
+**Data Types:**
+1. What is the difference between a primitive data type and a reference data type in programming?
+2. Explain the concept of type casting and provide an example.
+3. What is the significance of variable scope in relation to data types?
+4. Differentiate between integers and floating-point data types. Provide examples.
+5. How do you declare and use character data types in different programming languages?
+
+**Operators:**
+6. What is the difference between the '==' operator and the '===' operator in JavaScript?
+7. Explain the concept of short-circuit evaluation with logical operators in programming.
+8. How does the 'ternary' or 'conditional' operator work, and when is it commonly used?
+9. Discuss the bitwise operators and provide an example of their use.
+10. What is operator overloading, and why is it important in some programming languages?
+
+**Conditional Statements:**
+11. What is the difference between 'if', 'else if', and 'else' statements, and when would you use each in a program?
+12. Explain the use of a 'switch' statement and provide an example.
+13. What is the purpose of a 'conditional ternary operator' and how does it differ from 'if-else' statements?
+14. Discuss the concept of 'nested' if statements and provide an example.
+15. Explain the importance of the 'break' statement in switch cases.
+
+**Looping Statements:**
+16. What are the differences between 'for', 'while', and 'do-while' loops? When would you choose one over the other?
+17. Describe the 'continue' statement and its use in loops.
+18. Explain the concept of an 'infinite loop' and provide examples.
+19. How do you prevent an infinite loop, and what debugging techniques can be used to identify one?
+20. Discuss the 'for-each' loop or 'for...of' loop, and how it's used in various programming languages.
+
+**Functions:**
+21. Define a function and explain its role in programming.
+22. What is the difference between a function declaration and a function expression?
+23. How do you pass arguments to a function, and what are the types of parameters?
+24. Discuss the concept of 'recursion' in functions and provide an example.
+25. Explain the 'return' statement in functions and its importance in data flow.
